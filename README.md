@@ -3,6 +3,8 @@ This is an algorithm that replaces every third word in the string to Fizz, and e
 utilizes class FizzBuzzDetector and method getOverlappings that has input string and provides result as an object that contains output string with replaced words and number of coincidences of Fizz, Buzz and FizzBuzz words within the output string.
 
 # Requirements:
+- Input string must be between 7 and 100 characters long.
+ 
 - .NET 6.0 or newer (tested with .NET 8.0).
 
 - No additional dependencies or external libraries are required.
@@ -36,3 +38,14 @@ Test 5
 Input with 15 words → the 15th becomes "FizzBuzz"
 
 Running the program will show both the example output and PASS/FAIL results of the tests.
+
+# Prompts used (AI Assistance):
+- “Is the regex built-in utility?”
+- “How to use this regex, it’s missing some symbols and messing up the logic”
+- “I haven’t worked on unit tests before, what can I do?”
+- “How to do this test manually?”
+- “Give me an idea for a final test.”
+
+# Ideas / Help gathered from:
+https://stackoverflow.com/questions/11764539/writing-fizzbuzz
+https://stackoverflow.com/questions/43894982/trouble-matching-alpha-and-alphanumeric-words-in-string

@@ -46,6 +46,7 @@ Running the program will show both the example output and PASS/FAIL results of t
 - “I haven’t worked on unit tests before, what can I do?”
 - “How to do this test manually?”
 - “Give me an idea for a final test.”
+- "Short Documentation ideas?"
 
 # Ideas / Help gathered from:
 https://stackoverflow.com/questions/11764539/writing-fizzbuzz

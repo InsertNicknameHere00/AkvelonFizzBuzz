@@ -22,6 +22,7 @@ The program will then:
 
  # Manual tests are included in the Tests class.
 They cover 5 scenarios:
+
 Test 1
 Official example from the task → count = 9
 
